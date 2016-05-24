@@ -1,0 +1,63 @@
+/*
+* @Author: BewAthithan
+* @Date:   2016-05-23 16:23:59
+* @Last Modified by:   BewAthithan
+* @Last Modified time: 2016-05-23 19:19:32
+*/
+
+.header{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 70px;
+    color: black;
+    width: 1150px;
+    height: 80px;
+    border: 10px solid #778899;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 5px #FFDAB9;
+}
+
+.menu-list{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    background-color: #9C9C9C;
+    width: 10%;
+    /*display: inline-block;*/
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.table{
+    font-family: 'Ubuntu', sans-serif;
+    color: #FFBBFF;
+}
+
+.h1{
+    text-shadow: 1px 1px white;
+    font-size: 30px;
+    border: 10px solid #79CDCD;
+    padding: 10px;
+    text-align: center;
+}
+
+.date{
+    font-family: 'Ubuntu', sans-serif;
+    color: #E0EEE0;
+    font-size: 20px;
+    text-align: center;
+}
+
+.holiday{
+    font-family: 'Ubuntu', sans-serif;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.normalday{
+    font-family: 'Ubuntu', sans-serif;
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
